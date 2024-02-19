@@ -1,6 +1,6 @@
 from tkinter import *
 win = Tk()
-
+#win.geometry("300x400")
 win.title("Calculator")
 win.config(bg="#000035")
 win.resizable(False,False)
